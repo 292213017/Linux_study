@@ -1,0 +1,34 @@
+总用量 8
+drwxr-xr-x 53 liuhy liuhy 4096 12月 31 16:25 liuhy
+drwxr-xr-x  2 root  root  4096 10月 25 18:05 share_lib
+总用量 2097296
+drwxr-xr-x   3 root root       4096 8月  29 04:11  
+drwxr-xr-x   2 root root       4096 12月 14 22:08 bin
+drwxr-xr-x   4 root root       4096 12月 14 22:10 boot
+drwxr-xr-x   3 root root       4096 5月  25  2021 build
+drwxrwxr-x   2 root root       4096 1月  13  2021 cdrom
+drwxr-xr-x  21 root root       5060 12月 30 20:56 dev
+drwxr-xr-x 156 root root      12288 12月 25 06:55 etc
+drwxr-xr-x   4 root root       4096 10月 25 18:05 home
+lrwxrwxrwx   1 root root         32 12月  1 06:59 initrd.img -> boot/initrd.img-5.4.0-91-generic
+lrwxrwxrwx   1 root root         32 12月  1 06:59 initrd.img.old -> boot/initrd.img-5.4.0-90-generic
+drwxr-xr-x  22 root root       4096 7月  11 10:14 lib
+drwxr-xr-x   2 root root       4096 1月  13  2021 lib64
+drwx------   2 root root      16384 1月  13  2021 lost+found
+drwxr-xr-x   3 root root       4096 1月  13  2021 media
+drwxr-xr-x   2 root root       4096 8月   7  2020 mnt
+drwxr-xr-x  11 root root       4096 9月   3 12:16 opt
+drwxr-xr-x   3 root root       4096 10月 31 21:26 path
+dr-xr-xr-x 566 root root          0 12月 30 17:58 proc
+drwx------  11 root root       4096 12月 16 20:19 root
+drwxr-xr-x  34 root root       1240 12月 31 11:06 run
+drwxr-xr-x   2 root root      12288 12月 14 22:08 sbin
+drwxr-xr-x  16 root root       4096 9月  22 21:38 snap
+drwxr-xr-x   2 root root       4096 8月   7  2020 srv
+-rw-------   1 root root 2147483648 1月  13  2021 swapfile
+dr-xr-xr-x  13 root root          0 12月 30 17:58 sys
+drwxrwxrwt  23 root root      28672 12月 31 16:28 tmp
+drwxr-xr-x  11 root root       4096 8月   7  2020 usr
+drwxr-xr-x  15 root root       4096 9月  18 18:04 var
+lrwxrwxrwx   1 root root         29 12月  1 06:59 vmlinuz -> boot/vmlinuz-5.4.0-91-generic
+lrwxrwxrwx   1 root root         29 12月  1 06:59 vmlinuz.old -> boot/vmlinuz-5.4.0-90-generic
